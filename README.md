@@ -5,7 +5,7 @@
   
   :boy: My name is Mark Aronov and I'm from Israel. 
   
-  :man_student: I'm a currently a Copmputer Science student at the Open University of Israel.
+  :man_student: I'm currently a Copmputer Science student at the Open University of Israel.
   
   :technologist: In my spare time I enjoy exploring and learning about new discoveries and new technologies. 
   
